@@ -6,5 +6,4 @@ Vídeo: www.youtube.com
 
 Metodologia:
 
-<img width="650" alt="CRISP-DM Methodology" src="https://github.com/OviedoVR/Otimizando_Tabelas_LaTeX
-/blob/main/Tabelas_em_LaTeX.png">
+<img width="650" alt="CRISP-DM Methodology" src="https://github.com/OviedoVR/Otimizando_Tabelas_LaTeX/blob/main/Tabelas_em_LaTeX.png">
